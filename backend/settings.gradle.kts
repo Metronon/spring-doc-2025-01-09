@@ -1,1 +1,1 @@
-rootProject.name = "spring-jwt-2025-01-07"
+rootProject.name = "spring-doc-2025-01-09"
